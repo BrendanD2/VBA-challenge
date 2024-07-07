@@ -1,6 +1,5 @@
 # VBA-challenge
 
-Code
 
 Sub stock_challenge()
     'Setting up a loop to go through each worksheet
